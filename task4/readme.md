@@ -4,7 +4,7 @@ A simple web app that lets you play drum sounds using keyboard keys or by clicki
 
 ## Preview
 
-![Sound Buttons Preview](screenshot.png)
+![Sound Buttons Preview](image_2023-08-30_001844566.png)
 
 ## Table of Contents
 
