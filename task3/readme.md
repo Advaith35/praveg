@@ -4,7 +4,7 @@ A simple web form that collects general details including first name, last name,
 
 ## Preview
 
-![General Details Form Preview](screenshot.png)
+![General Details Form Preview](image_2023-08-30_002746827.png)
 
 ## Table of Contents
 
