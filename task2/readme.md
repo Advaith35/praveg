@@ -4,7 +4,7 @@ A visually appealing and interactive website showcasing a dance tour event with 
 
 ## Preview
 
-![Dance Tour Website Preview](screenshot.png)
+![Dance Tour Website Preview](image_2023-08-30_002922692.png)
 
 ## Table of Contents
 
