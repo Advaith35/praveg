@@ -1,4 +1,4 @@
-# Cadva 
+# PRAVEG TASKS
 Tech Tasks Showcase
 Welcome to my Tech Tasks Showcase repository! Here, I've compiled my solutions for a diverse set of tech tasks covering Python, HTML, CSS, JavaScript, and competitive coding challenges.
 
