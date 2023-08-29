@@ -1,6 +1,6 @@
 ## Screenshots
 
-![Bot Screenshot](preview.jpg)
+![Bot Screenshot](image_2023-08-30_001336400.png)
 
 This screenshot shows the bot's user interface and how it interacts with users.
 
