@@ -34,7 +34,7 @@ The website is designed to promote a Social Media Marketing business. It feature
 
 ## Screenshots
 
-![Screenshot](/image_2023-08-30_003049123.png)
+![Screenshot](image_2023-08-30_003049123.png)
 
 ## Technologies Used
 
