@@ -56,4 +56,3 @@ To use this bot, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-This README template includes sections for getting started, usage instructions, prerequisites, acknowledgments, and licensing information. Remember to adapt it to your specific project and provide accurate details.
